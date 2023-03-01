@@ -8,6 +8,7 @@ public class Main {
         martinGuitar.numberOfStrings();
         taylorGuitar.numberOfStrings();
         gibsonGuitar.numberOfStrings();
+        ovationGuitar.numberOfStrings();
         
 
     }
