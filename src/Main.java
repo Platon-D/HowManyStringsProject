@@ -9,6 +9,12 @@ public class Main {
         taylorGuitar.numberOfStrings();
         gibsonGuitar.numberOfStrings();
         ovationGuitar.numberOfStrings();
+
+
+        martinGuitar.numberOfStrings();
+        taylorGuitar.numberOfStrings();
+        gibsonGuitar.numberOfStrings();
+        ovationGuitar.numberOfStrings();
         
 
     }
