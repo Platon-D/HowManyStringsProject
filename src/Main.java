@@ -11,10 +11,8 @@ public class Main {
         ovationGuitar.numberOfStrings();
 
 
-        martinGuitar.numberOfStrings();
-        taylorGuitar.numberOfStrings();
-        gibsonGuitar.numberOfStrings();
-        ovationGuitar.numberOfStrings();
+
+        System.out.println("Success. Exit");
         
 
     }
